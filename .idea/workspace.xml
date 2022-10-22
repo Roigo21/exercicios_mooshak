@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca9db3fb-fa84-4346-93c9-5e8d1d10d97f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Mooshak.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_L.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_M.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_N.java" afterDir="false" />
+    <list default="true" id="ca9db3fb-fa84-4346-93c9-5e8d1d10d97f" name="Changes" comment="Primeiros Exercícios">
+      <change afterPath="$PROJECT_DIR$/src/ex_P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Z.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,19 @@
       <updated>1666113939691</updated>
       <workItem from="1666113940880" duration="1828000" />
       <workItem from="1666120828873" duration="4572000" />
+      <workItem from="1666199207118" duration="4131000" />
+      <workItem from="1666206868930" duration="1555000" />
+      <workItem from="1666461826894" duration="1187000" />
+      <workItem from="1666476887255" duration="571000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiros Exercícios">
+      <created>1666199239103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666199239103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiros Exercícios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros Exercícios" />
   </component>
 </project>
